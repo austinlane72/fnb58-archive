@@ -1,0 +1,9 @@
+English
+Pan-2022-9-16    V0.50
+----------------------------------------------------------------------------------------------------------------
+1. Fix PD/PPS restart problem
+2. Fix some minor issues
+
+Small problem refers to: the interval of PD spoofing sequence number
+APP voltage and current curve overlap
+English word "Battery" corrected
